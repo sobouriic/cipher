@@ -70,11 +70,11 @@ The **Caesar Cipher** algorithm follows these simple steps:
    ```bash
    git clone 
    cd cipher-encryption
-2.**Set up a Virtual Environment:**
+2. **Set up a Virtual Environment:**
     ```bash
     python3 -m venv venv
     source venv/bin/activate
-3.**Running Tests:**
+3. **Running Tests:**
     ```bash
     python -m unittest discover tests/
 
